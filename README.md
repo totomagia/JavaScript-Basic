@@ -11,6 +11,7 @@ Counter for Beginners is a web app made with Javascript, that work as a counter.
 ## Usage
 
 The Counter has two buttons push "+" to increase or push "-" to decrease the initial value ("0").
+
 If refresh the web page, the value that you see on the screen restart to "0".
 
 ## Contributing
