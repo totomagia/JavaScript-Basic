@@ -1,2 +1,25 @@
-# JavaScript-Basic
-My first web app made with Java Script
+# Counter for Beginners
+Counter is a web app made with Javascript, that work as a counter.
+
+## Installation
+
+Open the index.html file to access the web app interface.
+It's not necessary to install file on your pc.
+
+
+## Usage
+
+The Counter has two buttons (+, -) that increase or decrease the initial value ("0"). 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Contact
+Antonello Napolitano - antonellonapolitano@libero.it
+
+Project Link: https://github.com/totomagia/JavaScript-Basic.git
