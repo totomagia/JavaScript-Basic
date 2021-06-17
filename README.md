@@ -3,8 +3,9 @@ Counter is a web app made with Javascript, that work as a counter.
 
 ## Installation
 
-Open the index.html file to access the web app interface.
-It's not necessary to install file on your pc.
+* Download the folder Counter for Beginners
+* Open the index.html file to access the web app interface.
+* It's not necessary to install file on your pc.
 
 
 ## Usage
