@@ -28,4 +28,6 @@ Project Link: https://github.com/totomagia/JavaScript-Basic.git
 * https://www.start2impact.it/;
 * https://www.html.it/guide/guida-JavaScript-di-base/
 * https://javascript.info/
+* https://github.com/
+* https://www.makeareadme.com/
 * Javascript&Jquery by Don Duckett (Apogeo Edition)
