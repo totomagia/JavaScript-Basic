@@ -1,5 +1,5 @@
 # Counter for Beginners
-Counter is a web app made with Javascript, that work as a counter.
+Counter for Beginners is a web app made with Javascript, that work as a counter.
 
 ## Installation
 
