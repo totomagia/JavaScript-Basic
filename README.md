@@ -23,3 +23,9 @@ Please make sure to update tests as appropriate.
 Antonello Napolitano - antonellonapolitano@libero.it
 
 Project Link: https://github.com/totomagia/JavaScript-Basic.git
+
+## Acknowledgements
+* https://www.start2impact.it/;
+* https://www.html.it/guide/guida-JavaScript-di-base/
+* https://javascript.info/
+* Javascript&Jquery by Don Duckett (Apogeo Edition)
