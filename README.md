@@ -37,4 +37,4 @@ Project Link: https://github.com/totomagia/JavaScript-Basic.git
 * https://javascript.info/
 * https://github.com/
 * https://www.makeareadme.com/
-* Javascript&Jquery by Don Duckett (Apogeo Edition)
+* Javascript&Jquery by Don Duckett (Apogeo)
