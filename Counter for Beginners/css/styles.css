@@ -31,6 +31,14 @@ align-self: center;
 padding:5px;
 }
 
+.minus,.plus{
+width: 100%;
+}
 
+@media screen and (max-width:360px){
+ h1,.description,.container,button,.count,.minus,.plus{
+ width: 100%;
+ }   
+}
 
 
