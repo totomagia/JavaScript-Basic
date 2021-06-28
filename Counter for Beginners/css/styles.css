@@ -21,7 +21,7 @@ flex-direction: row;
 padding-top: 10px;
 }
 
-button,.count{
+.button,.count{
 text-align: center;
 font-size: x-large;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -32,7 +32,8 @@ padding:5px;
 }
 
 .minus,.plus{
-width: 100%;
+width: 35%;
+font-size: 100px;
 }
 
 @media screen and (max-width:360px){
