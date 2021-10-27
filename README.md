@@ -37,4 +37,9 @@ Project Link: https://github.com/totomagia/JavaScript-Basic.git
 * https://javascript.info/
 * https://github.com/
 * https://www.makeareadme.com/
+* https://firebase.google.com/
 * Javascript&Jquery by Don Duckett (Apogeo)
+
+## Deploy
+
+https://counterforbeginners.web.app/
